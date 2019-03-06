@@ -1,5 +1,3 @@
-### Raisely Customer Success Engineer Application 🤞
-
 #### Why would you be a good fit for the Customer Success Specialist role?
 
 I've worked remotely doing customer-based email support for a year and a half now, prior to which I was the IT department (of one) in the Melbourne offices of a company running multiple nightclubs (a role which including dabbling in marketing, web development, Photoshop, and pretty much anything else going). I love being able to give folks the information they need, when they need it – or to go and find it out in those cases where I can't, and to write it down so I can next time! 😁
