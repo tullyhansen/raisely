@@ -1,9 +1,12 @@
  ---
  ---
 
-@import "{{ site.theme }}";
+$header-bg-color: #1e6bb8;
+$header-bg-color-secondary: #7EA7D3;
 
-.page-header {
-background-color: #6138d8;
-background-image: linear-gradient(120deg, #6138d8, #a75dcb);
-}
+$body-link-color: #7EA7D3;
+$blockquote-text-color: #819198;
+
+$code-text-color: #494D4E;
+
+@import "{{ site.theme }}";
