@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+### Raisely Customer Success Engineer Application 🤞
 
-You can use the [editor on GitHub](https://github.com/tullyhansen/raisely/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#### Why would you be a good fit for the Customer Success Specialist role?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I've worked remotely doing customer-based email support for a year and a half now, prior to which I was the IT department (of one) in the Melbourne offices of a company running multiple nightclubs (a role which including dabbling in marketing, web development, Photoshop, and pretty much anything else going). I love being able to give folks the information they need, when they need it – or to go and find it out in those cases where I can't, and to write it down so I can next time! 😁
 
-### Markdown
+Besides, if you hire me I'll tell you the eight issues I spotted with the copy on the Raisely homepage ([though I gather these may all be swept away in the forthcoming relaunch…](https://twitter.com/MrDavidFTurner/status/1090397385400799234))
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Why do you want to work here over somewhere else?
 
-```markdown
-Syntax highlighted code block
+I'm skeptical of early startups as a rule (I'm always interested in where the money comes from), but I love the 'everybody wins' model that Raisely operates under – the charity partners get as much of their pledge money as possible, and Raisely adds a little on top which (crucially) pledgers can opt out of if they wish. It seems a fair deal for all involved, and a good model for growth. Working for a non-profit that in turn helps organisations helping others seems like a worthy way to spend one's working day!
 
-# Header 1
-## Header 2
-### Header 3
+#### Look at [this list of tasks](https://gist.github.com/tommaitland/193b189f80d15309f4bfc475a3a7e81e) and tell us which two you are excited by, which two you want to learn and the two you don’t want to do.
 
-- Bulleted
-- List
+'Updating the developer docs to cover a new release' and 'Work with developers to debug and resolve a product issue' are among the most exciting on the list –I'm a big one for documentation (both internal and external) as a means to capturing and sharing company knowledge, and my technical bent means I'm always keen to dig deep to find and fix even the edgiest of edge cases.
 
-1. Numbered
-2. List
+Kepla CRM is totally new to me, so 'Importing data into a new Kepla account' would be something I'd like to learn, as is 'Recruit a new team member' – I was informally involved in helping new folks find their feet in my previous role at 1Password and found this immensely rewarding, so I'd love to be involved throughout the whole hiring and on boarding process.
 
-**Bold** and _Italic_ and `Code` text
+I'm least taken by 'Create a video tutorial on how to set up a campaign' (I generally prefer to read rather than watch to get information, so wouldn't be the best person for this task) and 'Change the fonts and background colour on someone's campaign' (not to say that wouldn't or couldn't – just a little less exciting to me than the rest of the list).
 
-[Link](url) and ![Image](src)
-```
+#### Tell us about a company who does customer support well, and why you think they’re good.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tullyhansen/raisely/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I've never failed to be impressed by Slack support – help is always right where you need it (never more than a /feedback away), responses have always been timely (often within minutes!), and without exception every interaction has been a warm and friendly one.
